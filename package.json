@@ -24,9 +24,12 @@
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "@expo/metro-config": "^0.3.11",
+    "@expo/next-adapter": "^3.1.20",
     "@types/react": "~17.0.21",
     "@types/react-native": "~0.64.12",
     "metro-minify-terser": "^0.68.0",
+    "next-compose-plugins": "^2.2.1",
+    "next-transpile-modules": "^9.0.0",
     "prettier": "^2.5.1",
     "react-native-bundle-visualizer": "^3.1.1",
     "tslib": "^2.3.1",
